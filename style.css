@@ -1,0 +1,20 @@
+body {
+    font-family: 'DotGothic16', sans-serif;
+    color: red;
+    text-align: center;
+}
+.container {
+    padding: 100px;
+    background: #e09d9d;
+}
+#btn {
+    background: black;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
